@@ -1,0 +1,7 @@
+Docker commands
+---------------
+Build :
+docker build -t helloworld-docker -f Dockerfile .
+
+Run :
+docker run helloworld-docker
